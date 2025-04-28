@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirillun1027
-- 👀 I’m interested in app dev
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning AI applications
 - 💞️ I’m looking to collaborate on my game dev projects
 - 📫 How to reach me: Discord: Kirillun1027
 - 😄 Pronouns: he/him
